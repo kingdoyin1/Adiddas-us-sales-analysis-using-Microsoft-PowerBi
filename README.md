@@ -1,6 +1,6 @@
 # Adiddas-us-sales-analysis-using-Microsoft-PowerBi
 
-![Adidas Sales Dashboard](https://drive.google.com/uc?id=1LbDbkU_a-ZHDPOOmjYahvlwh4J03H7uP)
+![adiddas us dashboard](https://drive.google.com/uc?id=1S2y5euvVlaXZmpZW3Csdr3fZ3iFUAxJg)
 
 **Adidas (US) Sales Analysis Report**
 
